@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Arita</string>
+    <string name="title_activity_layout">LayoutActivity</string>
+    <string name="title_activity_intent">IntentActivity</string>
+    <string name="title_activity_form">FormActivity</string>
+    <string name="title_activity_destination">DestinationActivity</string>
+    <string name="title_activity_explore">ExploreActivity</string>
+    <string name="title_activity_woof">WoofActivity</string>
+    <string name="title_activity_first_screen">FirstScreenActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_01">Activity01</string>
+    <string name="title_activity_02">Activity02</string>
+    <string name="title_activity_03">Activity03</string>
+    <string name="title_activity_final">FinalActivity</string>
+</resources>
